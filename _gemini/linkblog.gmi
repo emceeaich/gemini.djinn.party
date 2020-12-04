@@ -1,0 +1,5 @@
+# 🧞‍🧞‍ 🖇 blog
+
+=> gemlog.gmi Moved to the gemlog page because "blog" doesn't make sense in the context of Gemini.
+
+> 10,000 years will give you such a crick in the neck. - The genie of the lamp

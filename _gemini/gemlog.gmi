@@ -1,0 +1,63 @@
+# 🧞‍🧞‍ 🖇 log
+
+```
+               _
+ ___ ___ _____| |___ ___
+| . | -_|     | | . | . |
+|_  |___|_|_|_|_|___|_  |
+|___|  djinn.party  |___|
+```
+
+## 2020 December
+=> https://somethingold.substack.com/p/spotify-playlists-discovery-the-failure 2020-12-04 - Spotify playlists are the new Facebook newsfeed, how do we get people to stop using them
+=> https://hackaday.com/2020/12/03/pinephone-gets-3d-printed-mechanical-keyboard/ 2020-12-03 - Printable 3D mechanical keyboard for Pine Phone
+=> https://www.openculture.com/2019/06/meet-emma-willard-the-first-female-map-maker.html 2020-12-02 - Emma Willard, American cartographer from the 19th C.
+=> https://medium.com/plangrid-technology/migration-from-home-grown-feature-flags-to-launchdarkly-9e9fcc97eb74 2020-12-02 - Migrating an existing feature flag system to Launch Darkly
+=> http://comicneue.com/ 2020-12-02 - An updated Comic Sans
+=> https://adactio.com/journal/17658 2020-12-02 - Contextual advertising is a scam that only benefits adtech companies
+=> https://docs.plausible.io/404-error-pages-tracking/ 2020-12-02 - Tracking 404 errors with Plausible
+=> gemini://gemini.circumlunar.space/docs/companion/subscription.gmi 2020-12-01 - Gemini 'gemlog' formats and subscriptions
+=> gemini://gemif.fedi.farm 2020-12-01 - Gemini server for interactive fiction: uses YAML to specify map
+=> https://thenewstack.io/the-future-of-developer-careers/ 2020-12-01 - Honeycomb co-founder discussing how you merge ops and dev without harming people
+=> https://twitter.com/possumkratom69/status/1322265248565395456 2020-12-01 - How fascism appropriates from fan cultures
+=> https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf 2020-12-01 - NASA Goddard SFC guide to astrophotography with a smart phone
+
+## 2020 November
+=> https://logicmag.io/care/informatics-of-the-oppressed/ 2020-11-22 - The informatics of the oppressed
+=> https://devhints.io/jekyll 2020-11-21 - Jekyll cheatsheet 
+=> https://edwardtufte.github.io/tufte-css/ 2020-11-21 - CSS based on Edward Tufte's layout and typography 
+=> https://bit.ly/38N61eE 2020-11-15 - Flying wing spec 
+=> https://bhilburn.org/vortex-race3-quick-reference/ 2020-11-02 - Using the Vortex Race 3 Keyboard 
+
+
+## 2020 October
+=> https://capnfabs.net/posts/cross-compiling-rust-apps-raspberry-pi/ 2020-10-31 - Crosscompiling Rust for RPi
+=> https://capiche.com/e/markdown-history 2020-10-25 - A history of Markdown
+=> https://www.thekitchn.com/cacio-e-pepe-2-22994320 2020-10-22 - Cacio e Pepe hacks 
+=> https://github.com/rbenv/rbenv 2020-10-21 - rbenv project 
+=> https://medium.com/@johnnymatthews/how-to-update-your-cmus-library-73b1282f7d51 2020-10-13 - Updating your cmus library 
+=> https://www.universetoday.com/148280/this-is-a-landslide-on-the-moon/ 2020-10-13 - Lunar landslide 
+=> https://www.survivingwithandroid.com/lora-network-ttgo-lora32-sx1276/ 2020-10-11 - LoRa on a TTGO board 
+=> https://charity.wtf/2020/10/03/on-call-shouldnt-suck-a-guide-for-managers/ 2020-10-09 - The manager's guide to on-call 
+=> https://dev.to/hanna/goodbye-nginx-hello-caddy-3p1k 2020-10-03 - Installing Caddy https server
+=> https://man.sr.ht/~adnano/kiln/ 2020-10-03 - A static generator for Gemini sites 
+=> https://www.twilio.com/blog/abstract-syntax-trees 2020-10-03 - Introduction to abstract syntax trees 
+=> https://www.perkinselearning.org/technology/blog/how-do-people-vision-impairments-use-emoji 2020-10-02 - How do people with limited or no vision use emoji
+=> https://blog.domenic.me/hacktoberfest/ 2020-10-01 - Hacktoberfest is a corporate-sponsored distributed denial of service attack against the open source maintainer community. 
+=> https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/ 2020-10-01 - 10 minute to 3 second builds after migrating to Eleventy 
+
+## 2020 September 
+=> https://lea.verou.me/2020/09/the-failed-promise-of-web-components/ 2020-09-30 - Why Web Components haven't taken off
+=> https://meyerweb.com/eric/thoughts/2020/09/29/polite-bash-commands/ 2020-09-30 - Polite bash 
+=> https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/ 2020-09-29 - Start documenting manual processes with scripts 
+=> https://medium.com/lapsed-historian/the-day-the-world-didnt-end-76b9deececcc 2020-09-27 - The context in which Col. Petrov decided not to start a nuclear war
+=> https://www.planetary.org/articles/can-the-moon-be-upside-down 2020-09-27 - Which way the Moon is up depends on where you are 
+=> https://blog.discord.com/why-discord-still-maintains-a-browser-only-experience-eb40d54b5a40 2020-09-27 - Why Discord maintains a web client 
+=> https://kottke.org/20/09/how-cities-can-make-the-most-of-a-pandemic-winter 2020-09-27 - Dress for outside and enjoy the winter!
+=> https://support.mozilla.org/en-US/kb/notes-status 2020-09-26 - Mozilla ending Firefox notes synching. Sigh.
+=> https://archiveofourown.org/works/26643754 2020-09-25 - Blaseball fanwork from Cynthia 
+=> https://www.themarshallproject.org/2020/09/23/rbg-s-mixed-record-on-race-and-criminal-justice 2020-09-24 - RGB's record on BIPOC and criminal justice 
+=> https://kottke.org/20/09/clear-language-on-slavery 2020-09-24 - Talking about slavery without euphemisms
+=> https://www.revk.uk/2020/09/how-not-to-qr-nhs-c19-app.html 2020-09-24 - How not to make QR codes
+
+> Aicha Kandicha would punch a Nazi - Anonymous
