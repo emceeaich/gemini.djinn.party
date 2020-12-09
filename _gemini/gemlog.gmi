@@ -8,6 +8,14 @@
 |___|  djinn.party  |___|
 ```
 
+## 8 December 2020
+
+=> https://kevq.uk/goodbye-wordpress-switched-to-jekyll/ Moving from WordPress to Jekyll
+
+## 6 December 2020
+
+=> https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546 Excel getting lambdas!
+
 ## 4 December 2020
 => gemini://skyjake.fi/gemlog/2020-12_hooks-and-pipes.gmi Lagrange introduces pipes for post processing non-Gemini documents
 => https://somethingold.substack.com/p/spotify-playlists-discovery-the-failure Spotify playlists are the new Facebook newsfeed, how do we get people to stop using them
