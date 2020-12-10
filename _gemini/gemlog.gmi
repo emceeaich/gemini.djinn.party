@@ -8,6 +8,10 @@
 |___|  djinn.party  |___|
 ```
 
+## 9 December 2020
+
+=> https://www.smashingmagazine.com/2020/12/wordpress-eleventy-static-site-generator/ Moving from WordPress to Eleventy
+
 ## 8 December 2020
 
 => https://kevq.uk/goodbye-wordpress-switched-to-jekyll/ Moving from WordPress to Jekyll
