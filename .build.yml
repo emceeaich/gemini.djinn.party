@@ -11,7 +11,8 @@ environment:
   repo: gemini.djinn.party
 tasks:
 - package: |
-    cd $repo/_gemini
-    tar -cvz . > ../../site.tar.gz
+    cd $repo
+    tar -C _gemini -cvz . > ../site.tar.gz
 - upload: |
     hut pages publish -d $site -p GEMINI site.tar.gz
+    
