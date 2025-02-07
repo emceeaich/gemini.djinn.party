@@ -1,0 +1,13 @@
+image: alpine/latest
+oauth: pages.sr.ht/PAGES:RW
+packages:
+  - hut
+environment:
+  site: djinn.party
+  repo: gemini.djinn.party
+tasks:
+- package: |
+    cd $repo/_gemini
+    tar -cvz . > ../../site.tar.gz
+- upload: |
+    hut pages publish -d $site -p GEMINI site.tar.gz
