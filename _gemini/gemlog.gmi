@@ -4,6 +4,46 @@
 
 It's prudent to bring this site back out of the bottle.
 
+Time to close a lot of tabs in the default browser window.
+
+=> https://itself.blog/2025/01/30/when-nudge-comes-to-shove-on-trump-and-the-endgame-of-neoliberalism/ Trump's Heretical neoliberalism
+
+> Hence Trump concludes that [the neoliberal order] must be rigged against the “right” people and countries and sets about righting that supposed wrong to make sure that the “right” people and countries start winning again. Obviously his framework for determining the “right” people and countries is deeply racist and xenophobic, but I think it’s important to highlight that he’s taking a specifically neoliberal approach to racism and xenophobia — the damage that the racial and foreign Others are doing is economic and calls for a shift in economic policy. 
+
+=> https://svs.gsfc.nasa.gov/13873/ Where did which element come from? The Big Bang, supernovas, etc.
+=> https://buttondown.com/thehypothesis/archive/what-is-media-a-primer-for-americans/ Annalee Newitz's primer on media theory for Americans
+=> https://jacobin.com/2014/10/les-simerables/ "SimCity isn’t a sandbox. Its rules reflect the neoliberal common sense of today’s urban planning."
+=> https://khz.ac/sound/ribbon-mic/ Building a ribbon microphone
+=> https://laurietobyedison.com/body-impolitic-blog/2025/01/recruiting-more-men-to-the-war-against-women/ Bribing men to report their sexual partners' abortions
+=> https://www.runawaytothestars.com/comic/rtts-page-129/ "Orbital station grandma polycule"
+=> https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/ 
+
+> Inadvertently, self-hosting advocates may undermine their own goal of better privacy and data ownership. By promoting open-source, self-hosted tools as the solution for those concerned about their privacy, they provide an escape valve for companies and regulators alike. Companies can claim, “Well, if users care about privacy, they can use X tool.” This reduces the pressure for legal regulation. Even Meta’s Threads, with its integration of ActivityPub, can claim to be open and competitive, deflecting criticism and regulation—despite this openness being largely flowing from Threads to ActivityPub and not the other way around. 
+
+=> https://www.printables.com/model/1076896-cat-cone-of-shame-lamp "A lamp to look like your cat when your cat is looking like a lamp"
+=> https://git.sr.ht/~technomancy/masto-gear-solid Import your previous posts into Go To Social
+=> https://www.hearingthings.co/ted-cruz-wants-to-screw-up-concert-ticketing-too/ Ted Cruz may not be the only reason we cannot have nice things, but he does his best
+=> https://bandwagon.fm/home
+=> https://tinytoolk.it/manifesto/ The tiny tool kit manifesto
+=> https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars Nobody will colonize Mars 
+=> https://tulip.computer/ A tiny computer for music composition
+=> https://thenewstack.io/developers-rail-against-javascript-merchants-of-complexity/ The merchants of complexity
+=> https://press.invincible.ink/story-pile-apothecary-diaries/ Quincy, M.D. but in the Lower Court 
+=> https://fediverse-governance.github.io/ The Fediverse Governance report
+=> https://www.fictiv.com/articles/helpful-design-constraints-vs-over-constraint-how-to-find-the-sweet-spot Keeping from over-constraining your design
+=> https://boingboing.net/2019/11/24/usufruct-complementarity-irred.html Library Socialism
+=> https://xkcd.com/2932/ Why not to let other drivers wave off their right-of-way
+=> https://mattwynne.net/feminism I guess the good news is that Musk's stunt will fail, but still hurt lots of people
+=> https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project Ten CSS One-liners
+=> https://maho.dev/2024/02/a-guide-to-implement-activitypub-in-a-static-site-or-any-website/ ActivityPub for static sites
+=> https://samwho.dev/bloom-filters/ Explaining Bloom filters
+=> https://api.kexp.org/v2/docs/ The KEXP live playlist api
+=> https://math.ucr.edu/home/baez/books.html How to learn math and physics
+=> https://www.joshwcomeau.com/css/center-a-div/ How to center a <div>
+=> https://dhdebates.gc.cuny.edu/projects/bodies-of-information Intersectional feminism and the digital humanities
+=> https://cassey.dev/ssg-frontmatter-template/ Frontmatter template for VSCode
+
+
 ## 11 December 2020
 
 => https://cdt.org/insights/report-algorithm-driven-hiring-tools-innovative-recruitment-or-expedited-disability-discrimination/ 60's health 'education' film narrator voice - "Algorithms: expressway to maintaining white supremacy."
