@@ -1,5 +1,207 @@
 #‍ 🧞🎉💎🪵
 
+# Tinylog format
+
+https://codeberg.org/bacardi55/gemini-tinylog-rfc
+
+## 15 February 2025
+
+Yes, I'm closing a bunch of tabs tonight
+
+=> https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/ Running list of litigation against Trump's Project 2025 EOs
+
+=> https://theflytrap.beehiiv.com/p/haidt-crimes-on-moral-foundations-theory-and-the-normalization-of-fascism-christian-nationalism On Moral Foundations Theory and the Normalization of Fascism
+"Powerful centrists with milquetoast politics are once again demanding we have empathy for people who would destroy us."
+
+=> https://www.propublica.org/article/usaid-peter-marocco-state-department-bosnia-serbia-diplomacy-trump-foreign-policy The destruction of foreign aid and assistance is driven by white christian nationalists in the US working with christian nationalists abroad
+
+=> https://blog.joinmastodon.org/2025/02/bringing-quote-posts-to-mastodon/ Bringing Quote Posts to Mastodon 
+Appreciating the care being put into this feature
+
+=> https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/ Metastudy on quote tweets/toots/posts
+
+=> https://destructured.net/combatting-doomscroll Things posters can try to keep others from getting caught up in doomscrolling loops
+
+=> https://jarunmb.com/posts/use-mastodon-hashtags-for-your-stuff Using private tags for your toots
+Since you can access a hashtag by URL, you could use that as a link log, esp. if you make the post local only.
+
+=> https://www.404media.co/dei-waste-gov-doge-list-behind-password/ Henrik Schönemann catches Musk's 4chan rape boys trying to create a sensationalized list of projects he does not have the authority to cancel.
+
+=> https://projects.propublica.org/elon-musk-doge-tracker/ Musk's 4chan army at DOGE
+
+=> https://www.thirdculturekitchen.blog/nanas-pilau Pilau (rice) recipe
+
+=> https://www.thirdculturekitchen.blog/nanas-chicken-curry Chicken curry from Goa via Tanzania 
+
+=> https://lea.verou.me/blog/2025/style-observer/ JS library for observing and detecting changes to styles applied to html
+
+=> https://www.wiley.com/en-us/The+Care+of+Things%3A+Ethics+and+Politics+of+Maintenance-p-9781509562381 Forthcoming book on Maintenance
+
+=> https://www.archdaily.com/798529/the-longish-read-ornament-and-crime-adolf-loos Ornament and crime
+
+=> https://archive.is/a7Oc4 The Amway cult
+
+=> https://www.transvitae.com/protecting-your-mental-health-amid-anti-trans-media-storms/ Protecting yourself during anti-Trans media storms
+
+=> https://www.propublica.org/article/vera-rubin-astronomer-dei-trump Trump and Musk deface a bio of astrophysicist Vera Rubin
+
+=> https://soundcloud.com/user-736747354/they-knew-it-was-a-lie-exposing-the-coverup-behind-japanese-american-mass-incarceration Exposing the lies behind the Japanese-American Concentration Camps of WWII
+> "Four decades after the U.S. government incarcerated nearly 120,000 Japanese-Americans, long-hidden evidence revealed that the reason behind the mass imprisonment was a lie. This episode explores how the discovery a “smoking gun” report led to Oakland native Fred Korematsu re-opening his World War II-era Supreme Court case. Korematu’s lawyer, Dale Minami, shares how lessons learned from this “civil rights disaster” can help prevent another injustice of this magnitude—or worse."
+
+=> https://localwiki.org/oakland/Fred_Korematsu Bio of Fred Korematsu in Oakland Wiki
+
+=> https://www.wrecka.ge/ursulas-list/ Ursula Franklin's checklist for evaluating public projects and funding
+
+=> https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/ Eight Rules for Managing the Commons
+
+=> https://www.ursulakleguin.com/a-rant-about-technology Le Guin's Rant about technology
+
+> "Technology is the active human interface with the material world."
+
+=> https://aworkinglibrary.com/writing/make-life-possible Le Guin and James C. Scott (_Seeing Like a State_) on the role of uncertainty
+
+=> https://www.cabinetmagazine.org/issues/5/easterling.php Walter Pitts: Cybernetics' missing man
+
+=> https://www.poetryfoundation.org/poems/51092/what-kind-of-times-are-these What Kind of Times are These (Adrienne Rich Poem)
+
+=> https://theconversation.com/david-lynch-exposed-the-rot-at-the-heart-of-american-culture-247670 David Lynch exposed the rotten core of masculine American culture
+
+=> https://read.dukeupress.edu/books/book/2383/The-Right-to-MaimDebility-Capacity-Disability The Right To Maim (book)
+
+=> https://www.wheresyoured.at/the-slop-society/ The rotten masculinist core of Silicon Valley 
+
+=> https://kieranhealy.org/blog/archives/2011/10/10/a-sociology-of-steve-jobs/ a Sociology of Steve Jobs
+
+=> https://ddosecrets.com/article/paramilitary-leaks Tranche of docs on fascists in US law enforcement
+
+=> https://popula.com/2019/02/24/about-face/ Tactical clothing and the fascist desire for death
+
+=> https://stallman-report.org/ The Stallman Report
+
+=> https://www.lrb.co.uk/the-paper/v36/n06/mary-beard/the-public-voice-of-women The public voice of women
+
+=> https://mutualaiddisasterrelief.org/wp-content/uploads/2020/12/Elites-and-Panic-More-to-Fear-than-Fear-Itself.pdf Elites and Panic
+
+=> https://www.clearerthinking.org/post/can-astrologers-use-astrological-charts-to-understand-people-s-character-and-lives-our-new-study-pu Can Astrology Predict Behavior and Character? (No.)
+
+=> https://nsarchive.gwu.edu/briefing-book/2024-12-29/jimmy-carter-declassified-obituary Some of Jimmy Carter's declassified memos
+
+=> https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ J. A. Wheeler and Gravity 
+
+=> https://ciechanow.ski/bicycle/ The physics of the bicycle
+
+=> https://www.baldurbjarnason.com/notes/2025/interim-5/ Web Media and Web Dev Employment 
+
+=> https://www.baldurbjarnason.com/2022/theory-building/ Employee Churn in Tech
+
+=> https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html Stop using ChatGPT to write
+
+=> https://codeberg.org/grunfink/snac2 A minimalist ActivityPub server in C
+
+=> https://subscriptions.boricua.style/fediblock-a-tiny-history-2/ The history of #Fediblock
+
+=> https://blog.erinshepherd.net/2023/04/right-of-reply/ Right of Reply in Social Media
+
+=> https://rmi.org/energy-after-fire/ RMI Whitepaper: Energy after Fire
+
+=> https://zinebakery.com/homemade-zines/bakeshop-2-diywebarchiving DYI web archiving
+
+=> https://alexwlchan.net/2024/static-websites/ Static websites for archiving
+
+=> https://github.com/lmorchard/fossilizer Generating websites from Mastodon archvies
+
+=> https://ruthtillman.com/talk/interdependent-library-system/ Revisiting Human Aspects of Library Automation
+
+=> https://htmlforpeople.com/ HTML for People
+
+=> https://markdown-at-edge.edgecompute.app/ Markdown at the network edge
+
+=> https://git.sr.ht/~bt/barf Shell based static site generator
+
+=> https://osmose.ceo/phantomake/features.html Phantomake docs (static website generator)
+
+=> http://contemporary-home-computing.org/still-there/geocities.html The ruins and templates of Geocities
+
+=> https://docs.google.com/spreadsheets/d/1BCJ7PFpUEjaysOA4C77z9Ckdo0YbutPihTh7oimm2AA/edit?gid=0#gid=0 Cohost blogroll
+
+=> https://brutalist-web.design/ Brutalist web design
+
+=> https://mxb.dev/blog/buildless/ Going buildless 
+
+=> https://ajroach42.com/the-small-things-manifesto/ The Small Things Manifesto
+
+=> https://grimoire.ca/code/small-systems-manfiesto/ The Small Systems Manifesto
+
+=> https://humanewebmanifesto.com/ Humane Web Manifesto
+
+=> https://themediocreprogrammer.com/build/html/the_mediocre_programmer.html The Mediocre Programmer
+
+=> https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/ Developer Tools as Labor Arbitrage
+
+=> https://maggieappleton.com/garden-history The Digital Garden
+
+=> https://herman.bearblog.dev/building-software-to-last-forever/ Building Software to Last Forever
+
+=> https://placesjournal.org/article/maintenance-and-care/ Maintenance and Care
+
+=> https://1mb.club/blog/https-redirects/ Disabling HTTPS redirects
+
+=> https://drewdevault.com/2021/10/26/stalebot.html Stalebot Considered Harmful
+
+=> https://danluu.com/slow-device/ How web bloat affects users with slow devices 
+
+=> https://boehs.org/node/npm-everything Dependency hell
+
+=> https://plainvanillaweb.com/ Vanilla web development
+
+=> https://www.kryogenix.org/code/browser/everyonehasjs.html The assumption that "everyone" has JavaScript on the browser
+
+=> https://tonsky.me/blog/centering/ Centering things on the web
+
+=> https://viewsource.info/ The View Source web
+
+=> https://aem1k.com/qlock/ A javascript quine clock
+
+=> https://alex.miller.garden/game-of-hope/ Conway's Life and Hope 
+
+=> https://avi.im/blag/2024/sqlite-facts/ SQLite Facts
+
+=> https://web.eecs.umich.edu/~imarkov/10rules.pdf Rules for developing safety critical code
+
+=> https://notes.doesstuff.social/teaching-mastodon-through-practical-interactions/ Teaching mastodon through practical interactions 
+
+=> https://git-send-email.io/#step-1 Git over Email
+
+=> https://www.funraniumlabs.com/2024/07/evolution-of-safety-equipment-the-berkeley-box/ The evolution of the Berkeley box
+
+=> https://dansinker.com/posts/reflections/ Dan Sinker's journaling system
+
+=> https://nora.zone/manifesto.html Nora Reed's Website Manifesto
+
+=> https://alyaza.neocities.org/essays/minifesto A manifesto on a democratic website federation
+
+=> https://rabbitwaves.ca/index.html A web zine on maritime signaling
+
+=> https://blog.zgp.org/turning-off-browser-ad-features-from-the-command-line/ Turning off advertising telemetry in web browsers from the command line
+
+=> https://blog.aurynn.com/2015/12/16-contempt-culture Contempt Culture in Programming Languages
+
+=> https://www.semanticscholar.org/paper/Introducing-Systems-Approaches-Reynolds-Holwell/182222ae9d6e91d7a5be72a0620a7d4c9f709d2d 
+> "Systems Approaches to Managing Change brings together five systems approaches to managing complex issues, each having a proven track record of over 25 years."
+
+=> https://lil.law.harvard.edu/century-scale-storage/ Century Scale Storage
+
+=> https://www.ucl.ac.uk/bartlett/public-purpose/publications/2024/dec/reclaiming-digital-sovereignty Reclaiming Digital Sovereignty 
+
+=> https://lithub.com/american-college-football-couldnt-exist-without-structural-coercion/ The coercive systems driving college football 
+
+=> https://www.halfcatrocketry.com/cat-claw The Cat Claw cable cutter
+
+=> https://librarysocialism.org/ Library Socialism
+
+
+
+
 ## 10 February 2025
 
 => https://www.youtube.com/watch?v=IEnFmrgEbWo The UK's electricity marginal pricing system is bonkers and distorted by the price of 'natural' gas. If you're well-off you can buy solar for your home, but there are cooperatives you can buy into (but again, that assumes you can afford to buy into one.) 
