@@ -1,8 +1,13 @@
 #‍ 🧞🎉💎🪵
 
-# Tinylog format
+A link blog 
 
-https://codeberg.org/bacardi55/gemini-tinylog-rfc
+author: ECH
+avatar: 🧞
+
+## 19 February 2025
+
+=> https://transworldexpress.org/wiki/Portugal Notes on emigrating to Portugal for LGBTQ+ US Nationals
 
 ## 15 February 2025
 
