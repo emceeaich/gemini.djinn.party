@@ -1,4 +1,4 @@
-# 🧞‍♀️🧞‍♀️ 🎉 blog
+# blog
 
 => gemlog.gmi Moved to the gemlog page because "blog" doesn't make sense in the context of Gemini.
 

@@ -1,9 +1,13 @@
-#‍ 🧞🎉💎🪵
-
-A link blog 
+#‍ A link blog 
 
 author: ECH
 avatar: 🧞
+
+## 24 February 2025
+
+=> https://lasersheets.eu/blogs/news/hammer-joint A laser-cut hammer joint for plywood and MDF
+
+=> https://suricrasia.online/puzzlebox/ Suricrasia's all HTML and CSS puzzlebox
 
 ## 19 February 2025
 

@@ -7,7 +7,7 @@ secrets:
 sources:
 - git@git.sr.ht:~emceeaich/gemini.djinn.party
 environment:
-  site: djinn.party
+  site: gemini.emmas.site
   repo: gemini.djinn.party
 tasks:
 - package: |

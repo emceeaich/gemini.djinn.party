@@ -1,5 +1,5 @@
-# Djinn Party
-## Welcome to the party 🧞🎉
+# gemini.emmas.site
+## In which namespaces are consolidated
 
 => gemlog.gmi A linklog
 => https://emmas.site Your host
